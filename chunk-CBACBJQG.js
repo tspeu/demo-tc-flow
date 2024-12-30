@@ -1,0 +1,1 @@
+import{Ub as o,Vb as i,jc as a,qc as r,ua as n}from"./chunk-B7KRKCKU.js";var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-operation"]],standalone:!0,features:[r],decls:2,vars:0,template:function(t,s){t&1&&(o(0,"p"),a(1,"operation works!"),i())}})}}return e})();export{c as OperationComponent};
