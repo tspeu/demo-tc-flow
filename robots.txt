@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow:
-
-Sitemap: hhttps://www.tacticflow.com//sitemap.xml
